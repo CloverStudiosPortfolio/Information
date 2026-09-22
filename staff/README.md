@@ -1,49 +1,65 @@
-# Staff Portfolio
+# Clover Studios Team
 
-Use this page as a guide for adding staff members to the main portfolio.
+This directory contains profiles, previous work, and contributions from the Clover Studios team.
 
-## Staff Member Template
+## Board of Executives
 
-Create a folder with the staff member's name, for example `staff/jane-doe/`, and add a `README.md` file containing:
+| Member | Position |
+| --- | --- |
+| Lost | Chief Executive Owner/Founder |
+| Sim | Chief Executive Officer |
+| Yosai | Chief Operations Officer |
+
+## Board of Directors/Investors
+
+| Member | Position |
+| --- | --- |
+| Nas | President of the Board |
+
+## Staff
+
+| Member | Position |
+| --- | --- |
+| Noir | Senior Engineer |
+| Toxic | Engineer |
+| Geek | Engineer |
+| Rosary | Engineer |
+| Seizing | Junior Engineer |
+
+## Adding a Profile
+
+Create a folder with the member's name, such as `staff/noir/`, and add a `README.md` file containing their biography, skills, projects, role, and contributions.
+
+Example:
 
 ```markdown
-# Jane Doe
+# Noir
+
+**Role:** Senior Engineer
 
 ## About
 
-Short description about this staff member and their role at Clover Studios.
-
-## Skills
-
-- Skill or technology
-- Skill or technology
+Short description about this team member.
 
 ## Projects
 
 ### Project Name
 
-Brief description of the project.
+Brief description of the project and their contributions.
 
-- **Role:** Their role on the project
 - **Technologies:** Technologies used
 - [View project code](https://github.com/)
 - [Live demo](https://example.com)
-
-## Contributions
-
-- Contribution made to the project
-- Another contribution
 ```
 
-## Example Folder Layout
+## Suggested Folder Layout
 
 ```text
 staff/
 ├── README.md
-├── jane-doe/
-│   └── README.md
-└── john-doe/
-    └── README.md
+├── executives/
+├── directors-investors/
+└── engineers/
 ```
 
-Replace the example names and links with real staff information and projects.
+Replace the example links and descriptions with real project information as profiles are added.

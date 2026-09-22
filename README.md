@@ -2,11 +2,29 @@
 
 Welcome to the Clover Studios portfolio. This repository highlights our staff members, their previous work, and their contributions.
 
-## Staff Members
+## Team
 
-Add each staff member to the list below using the template in [`staff/README.md`](staff/README.md).
+### Board of Executives
 
-- [Add staff member](staff/README.md)
+- **Lost** — Chief Executive Owner/Founder
+- **Sim** — Chief Executive Officer
+- **Yosai** — Chief Operations Officer
+
+### Board of Directors/Investors
+
+- **Nas** — President of the Board
+
+### Staff
+
+- **Noir** — Senior Engineer
+- **Toxic** — Engineer
+- **Geek** — Engineer
+- **Rosary** — Engineer
+- **Seizing** — Junior Engineer
+
+## Staff Profiles
+
+Individual profiles and project details can be added in the [`staff/`](staff/) directory using the [staff profile template](staff/README.md).
 
 ## Organization
 
