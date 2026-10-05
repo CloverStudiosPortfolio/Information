@@ -24,14 +24,13 @@ Welcome to the Clover Studios portfolio. This repository highlights our staff me
 
 ## Staff Profiles
 
-Individual profiles and project details can be added in the [`staff/`](staff/) directory using the [staff profile template](staff/README.md).
+You can find our staff profiles in the /staff repository. 
 
-## Organization
+## How we operate
 
-Each staff member can have their own section under `staff/`, including:
+Clover studios operate in the form of a "for hire group". We do not work on games ourselves, however, instead other game designers and owners can hire our staff to help contribute towards their game/project. We work on a task-payment structure, meaning once we complete a task to the clients liking, payment will proceed based on previous negotiations with the client.
 
-- A short biography
-- Their role and skills
-- Projects they worked on
-- Their specific contributions
-- Links to source code or live demos
+## Our links
+- Website: (WIP)
+- Roblox group: https://www.roblox.com/communities/873336962/unnamed#!/about
+- Email: cloverstudios.info@gmail.com
