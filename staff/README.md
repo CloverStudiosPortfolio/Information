@@ -1,65 +1,29 @@
-# Clover Studios Team
+# Clover Studios Staff
 
-This directory contains profiles, previous work, and contributions from the Clover Studios team.
+Welcome to the Clover Studios Staff directory. This section showcases our team members organized by their roles and positions within the organization.
 
-## Board of Executives
+## Organization Structure
 
-| Member | Position |
-| --- | --- |
-| Lost | Chief Executive Owner/Founder |
-| Sim | Chief Executive Officer |
-| Yosai | Chief Operations Officer |
+### Executives
+Leadership team members who guide the vision and direction of Clover Studios.
 
-## Board of Directors/Investors
+- **Sim**
+- **Lost**
+- **Yosai**
 
-| Member | Position |
-| --- | --- |
-| Nas | President of the Board |
+### Directors & Investors
+Directors who oversee specific departments and provide strategic guidance.
 
-## Staff
+- **Nas**
 
-| Member | Position |
-| --- | --- |
-| Noir | Senior Engineer |
-| Toxic | Engineer |
-| Geek | Engineer |
-| Rosary | Engineer |
-| Seizing | Junior Engineer |
+### Engineers
+Core engineering team members contributing to technical development.
 
-## Adding a Profile
+- **Noir**
+- **Toxic**
+- **Rosary**
+- **Seizing**
 
-Create a folder with the member's name, such as `staff/noir/`, and add a `README.md` file containing their biography, skills, projects, role, and contributions.
+---
 
-Example:
-
-```markdown
-# Noir
-
-**Role:** Senior Engineer
-
-## About
-
-Short description about this team member.
-
-## Projects
-
-### Project Name
-
-Brief description of the project and their contributions.
-
-- **Technologies:** Technologies used
-- [View project code](https://github.com/)
-- [Live demo](https://example.com)
-```
-
-## Suggested Folder Layout
-
-```text
-staff/
-├── README.md
-├── executives/
-├── directors-investors/
-└── engineers/
-```
-
-Replace the example links and descriptions with real project information as profiles are added.
+For more information about individual team members, navigate to their respective folders above.

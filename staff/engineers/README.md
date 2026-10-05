@@ -1,15 +1,14 @@
 # Engineers
 
-The engineering team at Clover Studios.
+The Engineering team at Clover Studios comprises talented developers and technical specialists contributing to our projects.
 
-## Team Members
+## Members
 
-- **Noir** - Senior Engineer
-- **Toxic** - Engineer
-- **Geek** - Engineer
-- **Rosary** - Engineer
-- **Seizing** - Junior Engineer
+- **Noir**
+- **Toxic**
+- **Rosary**
+- **Seizing**
 
 ---
 
-To add a profile, create a folder with the member's name (e.g., `staff/engineers/noir/`) and add a `README.md` file with their biography, skills, projects, and contributions.
+Select a team member above to view their profile and contributions.
