@@ -1,10 +1,8 @@
 # Nas
 
 ## Profile
-
-**Title:** Director  
+**Title:** Director
 **Department:** Directorship
 
 ---
-
-Add your profile information, biography, and contributions here.
+Add your profile information here.

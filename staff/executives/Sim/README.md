@@ -1,10 +1,8 @@
 # Sim
 
 ## Profile
-
-**Title:** Executive  
+**Title:** Executive
 **Department:** Executive Leadership
 
 ---
-
-Add your profile information, biography, and contributions here.
+Add your profile information here.
