@@ -2,6 +2,7 @@
 
 ## Profile
 **Title:** Executive
+
 **Department:** Executive Leadership
 
 ### About
