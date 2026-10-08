@@ -8,6 +8,7 @@ Welcome to the Clover Studios staff directory.
 - Sim
 - Lost
 - Yosai
+- Rosary
 
 ### Directors & Investors
 - Nas
@@ -15,7 +16,6 @@ Welcome to the Clover Studios staff directory.
 ### Staff
 - Noir
 - Toxic
-- Rosary
 - Seizing
 
 ---
