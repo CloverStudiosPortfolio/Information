@@ -14,11 +14,11 @@ Cybersecurity analyst and part-time programmer with a strong foundation in secur
 
 ### Projects
 - Contributed to multiple MILSIM (Military Simulation) groups, supporting simulation-focused development efforts and collaborative technical projects in tactical and operational environments.
+- Founded and lead a cybersecurity/development group called CloudSec.
 
 ### Profiles
-- TBD
+- Roblox - https://www.roblox.com/users/3453749913/profile
+- Discord - godovlarp
 
 ### Contributions
-- TBD
-
----
+- PlayVerse studio (currently the chief security officer).
