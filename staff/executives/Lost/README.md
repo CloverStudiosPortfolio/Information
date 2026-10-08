@@ -16,12 +16,11 @@ Cybersecurity analyst specializing in both red team and blue team operations, wi
 - C#
 
 ### Projects
-- TBD
+- Co founded and ran CloudSec
 
 ### Profiles
-- TBD
+- Roblox - https://www.roblox.com/users/542315/profile
+- Discord - lostsoulswats
 
 ### Contributions
-- TBD
-
----
+- PlayVerse studio
