@@ -28,7 +28,7 @@ Toxic has worked extensively with Lua for Roblox development, creating systems a
 Toxic is currently contributing to multiple advanced development initiatives, with ongoing work focused on building high-quality software solutions and expanding his expertise across modern engineering practices.
 
 ## Profiles
-- Roblox - N/A
+- Roblox - https://www.roblox.com/users/2883757403/profile?friendshipSourceType=PlayerSearch
 - Discord - toxics4rr
 
 ## Contributions
