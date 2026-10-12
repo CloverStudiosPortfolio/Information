@@ -1,8 +1,7 @@
 # Toxic
 
 ## Profile
-**Title:** Staff
-**Department:** Team
+**Title:** Engineer/Programmer/Scripter
 
 ---
 
