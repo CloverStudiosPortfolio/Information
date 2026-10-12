@@ -15,7 +15,7 @@ Geek is a retired programming and scripting professional who is getting back int
 - System design and debugging
 - Gameplay and utility logic
 
-## Previous Work
+## Projects
 
 ### Anti-Cheat / Movement Detection Prototype
 
