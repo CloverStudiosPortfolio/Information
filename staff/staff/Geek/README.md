@@ -31,6 +31,10 @@ Key features included:
 - Roblox anti-cheat prototype covering movement monitoring and exploit prevention logic
 (https://github.com/CloverStudiosPortfolio/Information/blob/main/staff/staff/Geek/AntiCheat/AntiCheat.lua)
 
+## Profiles
+- Roblox - N/A
+- Discord - 1tapping
+
 
 ## Contributions
 
