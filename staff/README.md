@@ -1,6 +1,6 @@
 # Clover Studios Staff
 
-Welcome to the Clover Studios staff directory.
+Welcome to the Clover Studios staff directory. Here is where you can find our studios hierarchy!
 
 ## Sections
 
@@ -8,6 +8,7 @@ Welcome to the Clover Studios staff directory.
 - Sim
 - Lost
 - Yosai
+- Z
 
 ### Directors & Investors
 - Nas
@@ -17,5 +18,3 @@ Welcome to the Clover Studios staff directory.
 - Toxic
 - Rosary
 - Seizing
-
----
