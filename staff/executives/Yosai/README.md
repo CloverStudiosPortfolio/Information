@@ -23,7 +23,8 @@ Prolific programmer with a strong foundation in software development, cybersecur
 - Worked on malware research, defensive security tooling, and security-focused software development.
 
 ### Profiles
-- TBD
+- Roblox - N/A
+- Discord - kazucolon3
 
 ### Contributions
 - TBD
