@@ -30,7 +30,6 @@ Key features included:
 - Resetting or correcting an invalid character state when issues are detected
 - Roblox anti-cheat prototype from `message(2).txt` covering movement monitoring and exploit prevention logic
 
-This work was documented in the provided `message.txt` sample and reflects a strong scripting background in Roblox development.
 
 ## Contributions
 
