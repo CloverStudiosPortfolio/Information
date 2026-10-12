@@ -9,6 +9,7 @@ Welcome to the Clover Studios portfolio. This repository highlights our staff me
 - **Lost** — Chief Executive Owner/Founder
 - **Sim** — Chief Executive Officer
 - **Yosai** — Chief Operations Officer
+- **Z** — Chief Security Officer
 
 ### Board of Directors/Investors
 
