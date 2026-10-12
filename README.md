@@ -29,7 +29,11 @@ You can find our staff profiles in the /staff repository.
 
 ## How we operate
 
-Clover studios operate in the form of a "for hire group". We do not work on games ourselves, however, instead other game designers and owners can hire our staff to help contribute towards their game/project. We work on a task-payment structure, meaning once we complete a task to the clients liking, payment will proceed based on previous negotiations with the client.
+Clover studios operate in the form of a "for hire group". We do not work on games ourselves, however, instead other game designers and owners can hire our staff to help contribute towards their game/project. We work on a task-payment structure, meaning once we complete a task to the clients liking, payment will proceed based on previous negotiations with the client. We do the following:
+- Roblox scripting
+- Any sort of programming
+- Web development
+- Discord bot development
 
 ## Our links
 - Website: (WIP)
