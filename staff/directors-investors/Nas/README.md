@@ -26,4 +26,5 @@ Nas is a seasoned LiveOps leader and advanced Roblox developer with extensive ex
 ### Contributions
 - Current Chief Operating Officer at PlayVerse, previously serving as Chief Development Officer.
 - Programmer and technical contributor across multiple studios, with experience in Roblox development, production support, and systems implementation.
+- Programmer at Indigo
 - More can be found in his GitHub
