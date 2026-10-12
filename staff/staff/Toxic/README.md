@@ -11,8 +11,7 @@ Toxic is an advanced programmer with a strong focus on Python and Lua, particula
 
 A standout example of his capabilities is his custom OSINT tool, which reflects his ability to design robust solutions for data collection, parsing, and analysis. Beyond that, Toxic has contributed to multiple high-impact projects, applying his technical expertise to improve systems, streamline workflows, and develop tools that are practical, secure, and effective.
 
-His strengths include:
-
+## Skills
 - Python development for automation and data processing
 - Lua / Luac scripting for Roblox gameplay systems and utilities
 - Problem solving with a strong emphasis on optimization and scalability
@@ -30,15 +29,11 @@ Toxic has worked extensively with Lua for Roblox development, creating systems a
 Toxic is currently contributing to multiple advanced development initiatives, with ongoing work focused on building high-quality software solutions and expanding his expertise across modern engineering practices.
 
 ## Profiles
-TBD
-
-Examples of profiles to add later:
-- GitHub: https://github.com/your-username
-- LinkedIn: https://www.linkedin.com/in/your-name
-- Portfolio / Website: https://your-portfolio.example
+- Roblox - N/A
+- Discord - toxics4rr
 
 ## Contributions
-TBD
+- https://openeye.lol/
 
 Examples of contributions to include:
 - Designed and developed a custom OSINT tool for research and analysis
@@ -46,7 +41,3 @@ Examples of contributions to include:
 - Improved technical reliability through modular code structure and optimization
 - Contributed to major project work with a focus on performance, maintainability, and user experience
 - Applied strong engineering practices to support long-term project quality and scalability
-
----
-
-Toxic brings a professional mindset, advanced technical capability, and a strong track record of delivering meaningful work across both software engineering and interactive development.
