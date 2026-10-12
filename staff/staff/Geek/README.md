@@ -28,7 +28,8 @@ Key features included:
 - Noclip detection through raycasting against workspace geometry
 - Strike counting and exploit warning logic
 - Resetting or correcting an invalid character state when issues are detected
-- Roblox anti-cheat prototype from `message(2).txt` covering movement monitoring and exploit prevention logic
+- Roblox anti-cheat prototype covering movement monitoring and exploit prevention logic
+(https://github.com/CloverStudiosPortfolio/Information/blob/main/staff/staff/Geek/AntiCheat/AntiCheat.lua)
 
 
 ## Contributions
