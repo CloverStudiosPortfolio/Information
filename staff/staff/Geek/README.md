@@ -4,7 +4,7 @@
 
 ## About
 
-Geek is a retired programming and scripting professional who is getting back into the game. With a strong foundation in engineering and development, Geek brings a practical mindset toward building, debugging, and refining systems that power gameplay experiences.
+Geek is a retired programming and scripting professional who is getting back into the game. With a strong foundation in engineering and development, Geek brings a practical mindset toward building, maintaining, and debugging systems that support real-world user experiences.
 
 ## Skills
 
@@ -28,6 +28,7 @@ Key features included:
 - Noclip detection through raycasting against workspace geometry
 - Strike counting and exploit warning logic
 - Resetting or correcting an invalid character state when issues are detected
+- Roblox anti-cheat prototype from `message(2).txt` covering movement monitoring and exploit prevention logic
 
 This work was documented in the provided `message.txt` sample and reflects a strong scripting background in Roblox development.
 
